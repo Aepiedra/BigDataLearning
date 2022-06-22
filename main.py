@@ -12,4 +12,4 @@ results = ratings.countByValue()
 sortedResults = collections.OrderedDict(sorted(results.items()))
 for key, value in sortedResults.items():
     print("%s %i" % (key, value))
-    print("xd)
+    print("xd")
